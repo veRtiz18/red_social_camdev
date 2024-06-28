@@ -1,0 +1,163 @@
+html,
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.links {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.class-name-share {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #2F2E2E;
+}
+
+.border-color-publications {
+    border-color: #7B5BF2;
+}
+
+.border-color-posts {
+    border-color: #09184D;
+}
+
+.border-color-posts:focus {
+    border-color: #09184D;
+    box-shadow: 0 0 0 0.2rem rgba(9, 24, 77, 0.25);
+}
+
+
+
+.letter-subtitulos-share {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.bottom-color {
+    background-color: #7B5BF2;
+    border: 2px solid transparent;
+    color: white;
+    /* Cambia el color del texto en estado normal */
+
+}
+
+
+.otro-bottom-color {
+    background-color: #7B5BF2;
+    border: 2px solid transparent;
+    color: white;
+    /* Cambia el color del texto en estado normal */
+
+}
+
+.otro-bottom-color:hover {
+    border-color: #7B5BF2;
+    /* Cambia el color del borde al mismo que el fondo en estado de hover */
+    color: #7B5BF2;
+    /* Cambia el color del texto en estado normal */
+}
+
+
+.bottom-color:hover {
+    border-top-color: #7B5BF2;
+    /* Cambia el color del borde al mismo que el fondo en estado de hover */
+    color: #7B5BF2;
+    /* Cambia el color del texto en estado normal */
+}
+
+.text-color-camdev {
+    color: #7B5BF2;
+}
+
+.text-color-camdev-titles {
+    color: #09184D;
+}
+
+.btn-badge {
+    background-color: #09184D;
+    border: 2px solid transparent;
+
+    color: white;
+    /* Cambia el color del texto en estado normal */
+}
+
+.btn-badge:hover {
+    border-color: #09184D;
+    background-color: #ffffff;
+    border: 2px solid transparent;
+    color: #09184D;
+    ;
+    /* Cambia el color del texto en estado normal */
+}
+
+
+.btn_azul_previous_next:hover {
+    border-color: #09184D;
+    /* Cambia el color del borde al mismo que el fondo en estado de hover */
+    color: #09184D;
+    /* Cambia el color del texto en estado de hover */
+}
+
+.color_nav {
+    background: #09184D;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ComentarioBox.css */
+
+.custom-form {
+    background-color: #edf2fa;
+    /* Fondo */
+    padding: 20px;
+}
+
+.custom-textarea {
+    background-color: #ffffff;
+    /* Color del menú */
+    color: #ffffff;
+    /* Texto en color blanco */
+    border: none;
+}
+
+.custom-textarea::placeholder {
+    color: #808085;
+    /* Color de texto de información */
+}
+
+.custom-button {
+    background-color: #7b5bf2;
+    /* Color de los botones */
+    border-color: #7b5bf2;
+}
+
+.custom-button:hover {
+    background-color: #5f3ca0;
+    /* Color alternativo al hacer hover */
+    border-color: #5f3ca0;
+}
+
+
+.bottom-color-eliminar {
+    background-color: #ffffff00;
+    border: 2px solid transparent;
+    color: rgb(163, 156, 156);
+    /* Cambia el color del texto en estado normal */
+
+}
+
